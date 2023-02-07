@@ -5,8 +5,8 @@ Essa e só a primeira versão
 
 ### Tec 🧑‍💻.
 
-⚛️ Expo
-💅 Styled Components
-🔥 Firebase
-🌎 Axios
-🔵 TypeScript
+⚛️ Expo </br>
+💅 Styled Components </br>
+🔥 Firebase </br>
+🌎 Axios </br>
+🔵 TypeScript </br>
