@@ -8,6 +8,5 @@ Essa e só a primeira versão
 ⚛️ Expo
 💅 Styled Components
 🔥 Firebase
-🔥 Firebase auth
 🌎 Axios
 🔵 TypeScript
