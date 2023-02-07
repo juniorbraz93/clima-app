@@ -1,4 +1,4 @@
-# Um Appinho em React Native Clima App .
+# Um Appzinho em React Native Clima App.
 
 Esse aplicativo este em construção e faltando melhorias e refatoração de código.
 Essa e só a primeira versão
